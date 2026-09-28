@@ -9,7 +9,7 @@ include 'header.php';
   <div class="container">
     <span class="eyebrow on-dark">Get To Know Us</span>
     <h1>About Shree Kaleshwari Security Services</h1>
-    <nav class="breadcrumb-nav"><a href="index.php">Home1</a><i class="bi bi-chevron-right"></i>About Us</nav>
+    <nav class="breadcrumb-nav"><a href="index.php">Home</a><i class="bi bi-chevron-right"></i>About Us</nav>
   </div>
 </section>
 
